@@ -49,6 +49,7 @@ Displays how rainfall today correlates with rainfall tomorrow.
 ### 3️⃣ Temperature at 3 pm vs Rain Tomorrow (Histogram)
 Visualises how afternoon temperature affects the probability of rain the next day.  
 **Insight:** Cooler afternoons tend to precede rainy days.  
+
 ![Temperature at 3 pm vs Rain Tomorrow](graphs/temp3pm_vs_rain_tomorrow.png)
 
 ### 4️⃣ Min Temperature vs Max Temperature (Scatter Plot)
