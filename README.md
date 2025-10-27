@@ -38,7 +38,8 @@ All visualisations are stored in the **`graphs/`** folder.
 
 ### 1️⃣ Location vs Rainy Days (Histogram)
 Shows how rainfall frequency differs by Australian location.  
-**Insight:** Coastal areas see rain far more often than inland regions.  
+**Insight:** Coastal areas see rain far more often than inland regions. 
+ 
 ![Location vs Rainy Days](graphs/location_vs_rainy_days.png)
 
 ### 2️⃣ Rain Tomorrow vs Rain Today (Histogram)
