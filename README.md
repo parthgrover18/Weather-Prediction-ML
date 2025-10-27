@@ -59,6 +59,7 @@ Shows the relationship between daily minimum and maximum temperatures.
 ### 5️⃣ Temperature (3 pm) vs Humidity (3 pm) (Scatter Plot)
 Analyses how temperature interacts with humidity levels later in the day.  
 **Insight:** High humidity and lower afternoon temperatures often lead to rain.  
+
 ![Temperature (3 pm) vs Humidity (3 pm)](graphs/temp3pm_vs_humidity3pm.png)
 
 ### 6️⃣ Top 20 Feature Importances in Decision Tree (Bar Chart)
