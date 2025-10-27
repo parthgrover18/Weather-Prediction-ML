@@ -44,6 +44,7 @@ Shows how rainfall frequency differs by Australian location.
 ### 2️⃣ Rain Tomorrow vs Rain Today (Histogram)
 Displays how rainfall today correlates with rainfall tomorrow.  
 **Insight:** If it rains today, the chance of rain tomorrow rises sharply.  
+
 ![Rain Tomorrow vs Rain Today](graphs/rain_tomorrow_vs_rain_today.png)
 
 ### 3️⃣ Temperature at 3 pm vs Rain Tomorrow (Histogram)
