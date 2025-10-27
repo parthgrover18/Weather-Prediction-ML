@@ -34,37 +34,37 @@ It includes features such as temperature, humidity, wind speed, rainfall, evapor
 
 ## 📈 Visualisations and Insights
 
-All visualisations are stored in the **`graph/`** folder.
+All visualisations are stored in the **`graphs/`** folder.
 
 ### 1️⃣ Location vs Rainy Days (Histogram)
 Shows how rainfall frequency differs by Australian location.  
 **Insight:** Coastal areas see rain far more often than inland regions.  
-📁 `graphs/location_vs_rainy_days.png`
+![Location vs Rainy Days](graphs/location_vs_rainy_days.png)
 
 ### 2️⃣ Rain Tomorrow vs Rain Today (Histogram)
 Displays how rainfall today correlates with rainfall tomorrow.  
 **Insight:** If it rains today, the chance of rain tomorrow rises sharply.  
-📁 `graphs/rain_tomorrow_vs_rain_today.png`
+![Rain Tomorrow vs Rain Today](graphs/rain_tomorrow_vs_rain_today.png)
 
 ### 3️⃣ Temperature at 3 pm vs Rain Tomorrow (Histogram)
 Visualises how afternoon temperature affects the probability of rain the next day.  
 **Insight:** Cooler afternoons tend to precede rainy days.  
-📁 `graphs/temp3pm_vs_rain_tomorrow.png`
+![Temperature at 3 pm vs Rain Tomorrow](graphs/temp3pm_vs_rain_tomorrow.png)
 
 ### 4️⃣ Min Temperature vs Max Temperature (Scatter Plot)
 Shows the relationship between daily minimum and maximum temperatures.  
 **Insight:** As expected, they’re strongly positively correlated.  
-📁 `graphs/min_temp_vs_max_temp.png`
+![Min Temperature vs Max Temperature](graphs/min_temp_vs_max_temp.png)
 
 ### 5️⃣ Temperature (3 pm) vs Humidity (3 pm) (Scatter Plot)
 Analyses how temperature interacts with humidity levels later in the day.  
 **Insight:** High humidity and lower afternoon temperatures often lead to rain.  
-📁 `graphs/temp3pm_vs_humidity3pm.png`
+![Temperature (3 pm) vs Humidity (3 pm)](graphs/temp3pm_vs_humidity3pm.png)
 
 ### 6️⃣ Top 20 Feature Importances in Decision Tree (Bar Chart)
 Displays the top predictors according to the Decision Tree model.  
 **Insight:** Humidity, temperature, and wind features have the highest influence.  
-📁 `graphs/top_20_feature_importances.png`
+![Top 20 Feature Importances in Decision Tree](graphs/top_20_feature_importances.png)
 
 ---
 
