@@ -54,6 +54,7 @@ Visualises how afternoon temperature affects the probability of rain the next da
 ### 4️⃣ Min Temperature vs Max Temperature (Scatter Plot)
 Shows the relationship between daily minimum and maximum temperatures.  
 **Insight:** As expected, they’re strongly positively correlated.  
+
 ![Min Temperature vs Max Temperature](graphs/min_temp_vs_max_temp.png)
 
 ### 5️⃣ Temperature (3 pm) vs Humidity (3 pm) (Scatter Plot)
