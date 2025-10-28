@@ -68,7 +68,7 @@ Analyses how temperature interacts with humidity levels later in the day.
 
 ### 6️⃣ Top 20 Feature Importances in Decision Tree (Bar Chart)
 Displays the top predictors according to the Decision Tree model.  
-**Insight:** Humidity, temperature, and wind features have the highest influence.  
+**Insight:** Humidity 3 pm, pressure 3pm, and rainfall today have the highest influence.  
 
 ![Top 20 Feature Importances in Decision Tree](graphs/top_20_feature_importances.png)
 
